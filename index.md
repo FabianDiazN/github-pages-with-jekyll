@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Mi blog personal"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Es un gusto tenerte por aqui ...
